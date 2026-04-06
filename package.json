@@ -4,7 +4,7 @@
   "description": "Example project from an angular.io guide.",
   "license": "MIT",
   "scripts": {
-    "buildci": "ng build -c production --base-href toh-rm-2024",
+    "buildci": "ng build -c production --base-href toh-rm-2026",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
